@@ -6,7 +6,7 @@ int main(){
    int Even = 0 ;
    int Odd = 0 ;
    while(x != 0){
-   cout << "Enter an integer: ";
+   cout << "Enter an integer: " ;
    cin >> x ;
     if( x%2 == 0){
         Even++ ;
