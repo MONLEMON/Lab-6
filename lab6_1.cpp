@@ -11,7 +11,7 @@ int main(){
     if( x%2 == 0){
         Even++ ;
         if(x==0){
-            Even--;
+            Even-- ;
         }
     }else{
        Odd++ ;
